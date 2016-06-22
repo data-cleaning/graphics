@@ -16,7 +16,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="validate6.svg">
+   sodipodi:docname="errorlocate2.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -25,7 +25,7 @@
       <stop
          id="stop6040"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:0.239" />
+         style="stop-color:#ffffff;stop-opacity:0.32104123" />
       <stop
          id="stop6042"
          offset="1"
@@ -90,8 +90,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.959798"
-     inkscape:cx="33.016821"
-     inkscape:cy="80.784909"
+     inkscape:cx="38.243953"
+     inkscape:cy="80.911178"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -108,7 +108,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -118,7 +118,7 @@
      id="layer1"
      transform="translate(0,-908.36218)">
     <rect
-       style="fill:#33ff33;fill-opacity:0.75294119;stroke:#333333;stroke-width:17.561;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#333333;fill-opacity:1;stroke:#333333;stroke-width:17.561;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="background"
        width="126.43902"
        height="126.43903"
@@ -127,30 +127,36 @@
        inkscape:label="#background" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill-opacity:1;font-family:Sans;fill:#333333;"
-       x="-1.2421875"
-       y="1038.8856"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;opacity:0.62699998;fill:#33ff33;fill-opacity:1"
+       x="22.243858"
+       y="1015.9047"
        id="icon"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan3753"
-         x="-1.2421875"
-         y="1038.8856"
-         style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Heydings Icons;-inkscape-font-specification:Heydings Icons;fill-opacity:1;fill:#333333;">O</tspan></text>
+         x="22.243858"
+         y="1015.9047"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:'Heydings Icons';-inkscape-font-specification:'Heydings Icons';fill:#33ff33;fill-opacity:1">@</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00dc00;fill-opacity:1;stroke:none;font-family:Sans;"
-       x="11.279785"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00dc00;fill-opacity:1;stroke:none"
+       x="8.2493277"
        y="1043.2708"
        id="name"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3757"
-         x="11.279785"
+         x="8.2493277"
          y="1043.2708"
-         style="font-size:22px;fill:#00dc00;-inkscape-font-specification:Consolas;font-family:Consolas;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;fill-opacity:1;">$&gt;validate</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#00dc00;fill-opacity:1">$&gt;errorlocate</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="filter"
+     style="display:inline">
     <path
        style="fill:url(#radialGradient6028);fill-opacity:1;stroke:none;stroke-width:17.56100082;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 0.42009875,908.33044 c 47.78636125,0 95.57272325,0 143.35908125,0 0,47.95473 0,95.90946 0,143.86416 -47.786358,0 -95.57272,0 -143.35908125,0 0,-47.9547 0,-95.90943 0,-143.86416 z"
